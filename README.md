@@ -62,3 +62,26 @@ This approach helps determine whether accurate classification can be achieved wi
 - Insights into electrode configurations for practical wearable BCI systems
 
 ## Project Structure
+
+
+## Future Work
+Possible extensions include:
+
+- Electrode importance ranking using feature attribution
+- Channel selection algorithms
+- Deep learning models for motor imagery decoding
+- Testing on additional BCI datasets
+- Designing minimal electrode configurations for wearable BCIs
+
+## Applications
+Reducing EEG electrode requirements could enable:
+
+- More practical consumer BCIs
+- Portable neurotechnology systems
+- Faster setup times for EEG experiments
+- Improved accessibility of neurotechnology
+
+## Author
+Keerat Kaur  
+Cognitive Science — Machine Learning & Neural Computation  
+University of California, San Diego
